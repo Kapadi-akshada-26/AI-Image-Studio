@@ -1,65 +1,58 @@
 # 🎨 AI Image Studio
 
-**MirAI School of Technology | Virtual Summer Internship 2026 | AI Builder Track – Assignment 4**
+> **AI-powered image generation with customizable art styles, Magic Enhance prompts, and a Surprise Me feature.**
 
-An upgraded AI Image Studio built with **Python**, **Streamlit**, and **Pollinations AI**. This assignment focuses on debugging an existing prototype and enhancing it with new AI-powered UX features.
-
----
-
-## 📌 Overview
-
-This project allows users to generate AI images from text prompts while customizing the art style and image dimensions. It also includes creative features like **Magic Enhance** and **Surprise Me** for a smoother user experience.
+**MirAI School of Technology · Virtual Summer Internship 2026 · AI Builder Track · Assignment 4**
 
 ---
 
-## ✨ Features
+## 🚀 Try it Now
 
-* Generate AI images from text prompts
-* Multiple art styles
-* Adjustable width and height
-* ✨ Magic Enhance prompt booster
-* 🎲 Surprise Me random prompt generator
-* Download images as PNG
-* Clean Streamlit interface
+**🌐 Live Demo:** https://kapadi-akshada-26-ai-image-studio-app-iglitu.streamlit.app/
+
+**🎥 Demo Video:** https://drive.google.com/file/d/1GFEgDDE9ZacaUDYzOhfsA3YCxZbx3CeK/view?usp=sharing
 
 ---
 
-## 🚀 Assignment Improvements
+## 📸 Preview
 
-### ✅ Task 1 – Fixed Width & Height Sliders
+Replace this with your best homepage screenshot.
 
-The selected image dimensions are now passed directly to the Pollinations AI API.
-
-### ✅ Task 2 – Dynamic PNG Download
-
-Downloaded images now:
-
-* Save with the `.png` extension
-* Use a filename based on the selected art style
-
-Example:
-
-* `anime_image.png`
-* `watercolor_image.png`
-
-### ✅ Task 3 – Magic Enhance
-
-When enabled, the app automatically enriches prompts with quality-enhancing keywords.
-
-### ✅ Task 4 – Surprise Me
-
-A random creative prompt is selected instantly using Python's `random.choice()`.
+![AI Image Studio Preview](OUTPUT.png)
 
 ---
 
-## 🖥️ Tech Stack
+## ✨ What Makes This Better?
+
+This isn't just an AI image generator—it upgrades a basic prototype into a more polished, SaaS-style application with interactive UX improvements.
+
+* ✨ **Magic Enhance** – Automatically boosts prompts with high-quality descriptive keywords.
+* 🎲 **Surprise Me** – Instantly generates creative prompts using Python's `random.choice()`.
+* 🎨 **Custom Dimensions** – Width and height sliders actually control the generated image size.
+* 📥 **Smart Downloads** – Images save as properly named PNG files.
+
+---
+
+## 🎯 Assignment Requirements Completed
+
+| Requirement                   | Status |
+| ----------------------------- | ------ |
+| Width & Height URL Parameters | ✅      |
+| Dynamic PNG Download          | ✅      |
+| Magic Enhance Toggle          | ✅      |
+| Surprise Me Generator         | ✅      |
+| Improved UX                   | ✅      |
+
+---
+
+## 🛠 Tech Stack
 
 | Technology      | Purpose              |
 | --------------- | -------------------- |
 | Python          | Programming Language |
 | Streamlit       | Web App Framework    |
-| Requests        | API Calls            |
 | Pollinations AI | Image Generation     |
+| Requests        | API Calls            |
 | Random          | Surprise Prompt      |
 | urllib.parse    | URL Encoding         |
 
@@ -83,8 +76,8 @@ AI-image-studio/
 ### Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK>
-cd AI-image-studio
+git clone https://github.com/Kapadi-akshada-26/AI-Image-Studio.git
+cd AI-Image-Studio
 ```
 
 ### Create a virtual environment
@@ -93,9 +86,7 @@ cd AI-image-studio
 python -m venv .venv
 ```
 
-### Activate the environment
-
-**PowerShell**
+### Activate it (PowerShell)
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
@@ -124,39 +115,15 @@ requests
 
 ---
 
-## 📸 Screenshots
+## 📚 What I Learned
 
-### Home Screen
+Through this assignment I learned to:
 
-> *(Replace with your screenshot)*
-
-![Home Screen](OUTPUT.png)
-
-### Generated Image
-
-> *(Replace with your generated image screenshot)*
-
----
-
-## 🎥 Demo Video
-
-**Screen Recording:** *https://drive.google.com/file/d/1GFEgDDE9ZacaUDYzOhfsA3YCxZbx3CeK/view?usp=sharing*
-
----
-
-## 🌐 Live Demo
-
-**Streamlit App:** *(https://kapadi-akshada-26-ai-image-studio-app-iglitu.streamlit.app/)*
-
----
-
-## 📚 Learning Outcomes
-
-* Debugged an existing Streamlit application.
-* Connected UI controls with API parameters.
-* Improved user experience with interactive features.
-* Implemented random content generation using Python.
-* Built a more polished AI-powered application.
+* Debug a real Streamlit application.
+* Connect UI controls with API parameters.
+* Improve UX using interactive features.
+* Generate random content with Python.
+* Build a more polished AI-powered application.
 
 ---
 
@@ -165,7 +132,7 @@ requests
 **Akshada Kapadi**
 
 * B.Tech Computer Engineering
-* MirAI School of Technology – AI Builder Virtual Summer Internship 2026
+* MirAI School of Technology – Virtual Summer Internship 2026
 
 ---
 
