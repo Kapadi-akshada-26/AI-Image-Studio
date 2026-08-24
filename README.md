@@ -15,10 +15,9 @@
 ---
 
 ## 📸 Preview
+Get the preview in the file output.png
 
-Replace this with your best homepage screenshot.
-
-![AI Image Studio Preview](OUTPUT.png)
+![AI Image Studio Preview](output.png)
 
 ---
 
