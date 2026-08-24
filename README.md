@@ -140,13 +140,13 @@ requests
 
 ## 🎥 Demo Video
 
-**Screen Recording:** *Add your video link here.*
+**Screen Recording:** *https://drive.google.com/file/d/1GFEgDDE9ZacaUDYzOhfsA3YCxZbx3CeK/view?usp=sharing*
 
 ---
 
 ## 🌐 Live Demo
 
-**Streamlit App:** *Add deployment link here.*
+**Streamlit App:** *(https://kapadi-akshada-26-ai-image-studio-app-iglitu.streamlit.app/)*
 
 ---
 
